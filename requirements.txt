@@ -1,0 +1,8 @@
+streamlit
+chromadb
+sentence-transformers
+requests
+ollama
+langchain
+langchain-community
+gradio
