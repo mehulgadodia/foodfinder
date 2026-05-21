@@ -98,3 +98,7 @@ streamlit run rag_app.py
 - Use radius 2000m or less for faster results
 - If rate limited, wait 1-2 minutes before retrying
 - Close and restart the app to clear ChromaDB cache if issues persist
+
+## I will be uploading more optimization for this code as the main issue im facing is increasing the distance.
+
+
